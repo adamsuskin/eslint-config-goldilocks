@@ -43,5 +43,6 @@ module.exports = {
      // allow braces to be whatever
      "arrow-body-style": "off",
     },
+    reportUnusedDisableDirectives: true,
   }
   
