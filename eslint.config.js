@@ -8,7 +8,7 @@ module.exports = {
     "airbnb/hooks",
     "airbnb-typescript",
     "prettier",
-    "prettier/react",
+    "plugin:prettier/recommended",
   ],
   ignorePatterns: [
     "dist",
